@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KamwaniAmit
+- 👋 Hi, I’m Amit Kamwani.
 - 👀 I’m interested in MS SQL and Power BI.
 - 🌱 I’m currently learning T-SQL (Advance SQL followed by Power BI).
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning.
